@@ -5,9 +5,9 @@ ircLogBot is an app that
 
  - monitors a group of irc channels
  - logs activity on them
- - displays web apges with pointers to the logs
+ - serves web pages with pointers to these logs
 
-comes in two flavors:
+# comes in two flavors:
 
 ircLogBot atop pircBot (java):
 
