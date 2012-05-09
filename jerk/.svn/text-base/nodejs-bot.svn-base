@@ -1,0 +1,9 @@
+
+# this is the usual npm path
+export NODE_PATH=/usr/local/lib/node_modules/
+
+# node will usually be installed at
+#   /usr/local/bin/node
+# but if you built it as yourself, likely
+#   ~/local/node/bin/node
+node simple.js 
