@@ -7,7 +7,7 @@ ircLogBot is an app that
  - logs activity on them
  - serves web pages with pointers to these logs
 
-# comes in two flavors:
+### comes in two flavors:
 
 ircLogBot atop pircBot (java):
 
